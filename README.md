@@ -13,3 +13,4 @@ The goal of the project is to analyze metrics that can affect the manufacturing 
 - Multiple R-squared increases as more variables are passed through the regression. However, adjusted R-squared controls against this increase, and adds penalties for the number of predictors in the model, thus making it a more accurate predictor of how effective the linear model is. An adjusted R-square of 0.6825 concludes that this linear model predicts the mpg of MechaCar prototypes relatively well.
 
 ## Summary Statistics on Suspension Coils
+![Mecha_Car_total_summary](/Resources/total_summary.png)
