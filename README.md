@@ -14,3 +14,9 @@ The goal of the project is to analyze metrics that can affect the manufacturing 
 
 ## Summary Statistics on Suspension Coils
 ![Mecha_Car_total_summary](/Resources/total_summary.png)
+![Mecha_Car_lot_summary](/Resources/lot_summary.png)
+
+The overall variance for the entire dataset indicates that the current manufacturing data meets the 100 pounds per square inch variance limitation. However, when separated into three lots, the third lot demonstrates a much higher variance. Because the lots are chosen randomly, there is a possiblity that a third of the lot does not meet the necessary suspension coils requirement.
+
+## T-Test on Suspension Coils
+
